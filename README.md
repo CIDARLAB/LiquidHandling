@@ -1,5 +1,5 @@
 # LiquidHandling
-This is the CIDAR Lab Liquid Handling GitHub Repo. Here you'll find files pertaining to liquid handling automation, and in particular, files which supplement our Journal of Video Experiments (JoVE) publication (xxx).
+This is the CIDAR Lab Liquid Handling GitHub Repo. Here you'll find files pertaining to liquid handling automation, and in particular, files which supplement our Journal of Video Experiments (JoVE) publication (xxx). Users looking for plasmid maps can find them at http://www.cidar-ice.org/ (username: guest / password: guest).
 
 ####MoClo_Setup.xlsx
 This spreadsheet file contains tables to help calculate DNA dilutions for setting up MoClo reactions. Also included are sheets for calculating MoClo reaction reagents, as well as the total volume of competent cells needed for transformation reactions.
